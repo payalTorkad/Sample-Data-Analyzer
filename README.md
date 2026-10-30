@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Data Analyzer
 
 A beginner-friendly Streamlit website for automatic data cleaning, exploratory analysis, charts, and exporting cleaned data.
@@ -67,3 +68,6 @@ A beginner-friendly Streamlit website for automatic data cleaning, exploratory a
 - Outliers are flagged, not deleted.
 - The app processes files in the Streamlit server session. For a public deployment, add authentication, file-size limits, privacy notices, and secure storage controls before accepting sensitive data.
 - Very large files may need chunked processing or a database-backed architecture.
+=======
+# Sample-Data-Analyzer
+>>>>>>> a5cb6bda80b1dea3d3f4419715ecd6f7f0e70882
